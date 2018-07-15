@@ -17,6 +17,7 @@
   </head>
 <body>
   <img alt="システム・エボリューション株式会社" src="http://sysevotest.herokuapp.com/header_logo2.png" />
+  <img alt="GitHubに移植しました♪" src="http://sysevotest.herokuapp.com/sysevo.png" />
 <?php
 include_once "database.php";
 
